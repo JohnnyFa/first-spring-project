@@ -5,11 +5,6 @@ This is my first Spring Boot project using Java and Maven. The project focuses o
 ## Table of Contents
 - [Overview](#overview)
 - [Technologies Used](#technologies-used)
-- [Project Structure](#project-structure)
-- [Setup and Installation](#setup-and-installation)
-- [Endpoints](#endpoints)
-- [Running the Application](#running-the-application)
-- [Future Improvements](#future-improvements)
 
 ## Overview
 
