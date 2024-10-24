@@ -16,7 +16,7 @@ This project is a simple Spring Boot web application that handles backend logic 
 - **Repository:** Manages data persistence with the database, typically using Spring Data JPA.
 
 ## Technologies Used
-- **Java 17**: The programming language used.
+- **Java 21**: The programming language used.
 - **Spring Boot 3.x**: For creating the application framework.
 - **Maven**: As the build automation tool and dependency manager.
 - **Spring Data JPA**: For data persistence and interaction with the database.
